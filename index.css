@@ -259,6 +259,11 @@
       color: #555;
     }
 
+     .feat-desc2 {
+      font-size: 13px;
+      color: #e8e5e5;
+    }
+
     .feat-stat { text-align: right; flex-shrink: 0; }
 
     .feat-stat-amount {
